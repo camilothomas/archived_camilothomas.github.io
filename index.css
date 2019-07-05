@@ -77,3 +77,7 @@ button {
 h4 {
   margin-left: .25em;
 }
+
+.btn-grow:hover {
+  transform: scale(1.1);
+}
