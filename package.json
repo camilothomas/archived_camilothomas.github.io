@@ -28,7 +28,7 @@
     "dependencies": {
         "bootstrap": "^4.3.1",
         "jquery": "^3.4.1",
-        "terser": "^3.17.0"
+        "terser": "^4.8.1"
     },
     "devDependencies": {
         "browser-sync": "^2.26.7",
